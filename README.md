@@ -23,6 +23,3 @@ This portfolio documents my learning as I work through Advanced Excel in Busines
 
 For each project, I will explain the business question, the Excel tools I used, how I checked my results, and what I learned. I will include screenshots and my own practice workbooks where appropriate.
 
-## Progress
-
-I am beginning this portfolio. My first learning entry and Excel project are coming soon.
