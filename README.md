@@ -17,7 +17,7 @@ This portfolio documents my learning as I work through Advanced Excel in Busines
 * Tables and data organization
 * Pivot tables
 * Charts and data visualization
-* What-if analysis
+* What if analysis
 
 ## What I Will Share
 
