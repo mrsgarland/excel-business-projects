@@ -1,4 +1,4 @@
-# Excel Business Projects
+# CIS 308: Advanced Excel in Business
 
 Welcome! I’m Kristina Garland. My background is in customer service and account resolution, and I enjoy using technology to solve problems and make everyday work easier.
 
